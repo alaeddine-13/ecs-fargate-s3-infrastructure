@@ -1,5 +1,6 @@
 # ecs-fargate-s3-infrastructure
 Infrastructure to deploy a containerized web application using ECS Fargate with service autoscaling and an Application Load Balancer. Frontend deployment uses S3 static web hosting setup with a cloudfront distribution.
+The infrastructure as code is written using Terraform.
 
 ## Architecture:
 The infrastructure is composed of the following ressources:
